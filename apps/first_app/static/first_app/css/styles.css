@@ -1,0 +1,20 @@
+.wrapper {
+    width: 250px;
+    height: 100px;
+    margin: auto;
+
+}
+
+.timeheader {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.timediv {
+    border: 2px solid black;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
